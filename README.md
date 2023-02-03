@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there! I'm Huseyin Ilker. 👋
+<h1 align='center'>👋 Hi there! I'm Huseyin Ilker. </h1>
 
 <!--
 **hgulese/hgulese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
